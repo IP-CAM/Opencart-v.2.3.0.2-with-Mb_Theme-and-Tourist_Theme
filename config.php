@@ -18,6 +18,9 @@ define('DIR_LOGS', 'C:/wamp/www/2302_shop/system/storage/logs/');
 define('DIR_MODIFICATION', 'C:/wamp/www/2302_shop/system/storage/modification/');
 define('DIR_UPLOAD', 'C:/wamp/www/2302_shop/system/storage/upload/');
 
+
+
+
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
