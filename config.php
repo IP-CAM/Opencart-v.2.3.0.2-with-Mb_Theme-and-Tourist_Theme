@@ -20,7 +20,10 @@ define('DIR_UPLOAD', 'C:/wamp/www/2302_shop/system/storage/upload/');
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
